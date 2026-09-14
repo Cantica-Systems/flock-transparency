@@ -5,7 +5,7 @@ Visit Flock
 Walker MI PD
 Transparency Portal
 
-Last updated: Sun Sep 13 2026
+Last updated: Mon Sep 14 2026
 
 Overview
 
@@ -71,13 +71,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-167,566
+164,994
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-76
+73
 
 Hotlists Alerted On
 
@@ -89,16 +89,16 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-905
+912
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Larceny/Theft Offenses
 Drugs/Narcotics
+Stolen Property Offenses
 Financial Crime (Embezzlement/Fraud)
 Weapons Offense (Guns/Shots Fired)
-Hit and Run/Car Accident
 
 Sharing Network Data With
 
@@ -326,7 +326,6 @@ Charlotte MI PD
 Chatham IL PD
 Cheatham County TN SO
 Chesterfield Twp MI PD
-Chesterton IN PD
 Claiborne County TN SO
 Clarksville IN PD
 Clawson MI PD
@@ -370,7 +369,6 @@ Elwood IN PD
 Englewood OH PD
 Eureka MO PD
 Fairfax OH PD
-Fairfield PD - OH
 Fairfield Township OH PD
 Fairmount IN PD
 Farmington Hills MI PD
