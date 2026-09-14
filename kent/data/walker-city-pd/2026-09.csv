@@ -1,0 +1,25 @@
+id,userId,searchDate,networkCount,offenseType
+33a56e84-412d-4a1c-b2a6-ae30750cc3b3,,2026-09-01T22:29:03.365Z,23,Financial Crime (Embezzlement/Fraud)
+e6fdfb22-c1b9-4f87-b512-c273466a1eb7,,2026-09-02T04:01:33.195Z,23,Weapons Offense (Guns/Shots Fired)
+803a8a8c-6f85-407b-b56a-351b72423478,,2026-09-02T16:14:11.144Z,23,Missing/Endangered Person/Runaway
+06409413-d1aa-4656-b488-4ec1d4c4b74a,,2026-09-02T19:35:59.310Z,23,Missing/Endangered Person/Runaway
+adab711c-c9fe-4a39-bccf-c6aa444b8261,,2026-09-03T03:01:18.384Z,23,Hit and Run/Car Accident
+c80d3032-08aa-4f06-af03-7f438e338cfa,,2026-09-03T19:58:54.437Z,23,Hit and Run/Car Accident
+79f7c1dd-fb60-4f51-9c69-793b646aeb4d,,2026-09-03T20:02:22.091Z,23,Hit and Run/Car Accident
+c5a1b9c9-87e7-49d2-a8fa-c3f89e63728c,,2026-09-04T08:28:37.837Z,2,Hit and Run/Car Accident
+e274ae2a-68e1-4a56-80d3-c01d380e7e5a,,2026-09-04T15:26:52.145Z,2,Larceny/Theft Offenses
+8184d3d6-d6f9-494a-825b-d12b4445f326,,2026-09-04T17:49:23.241Z,23,Larceny/Theft Offenses
+c31f2f55-4349-48fb-b08b-9fb1d326ef51,,2026-09-04T18:01:57.140Z,23,Larceny/Theft Offenses
+eaee2c7d-1cd7-46f2-8ff5-201987c94216,,2026-09-04T19:45:53.012Z,6,Larceny/Theft Offenses
+eeda4015-f7f5-47c6-99e9-7305a7f5deb8,,2026-09-07T19:33:15.868Z,23,Assault/Battery Offenses
+2f3ee0bd-f3af-4567-b944-82a5973d9bc5,,2026-09-07T20:05:48.816Z,23,Larceny/Theft Offenses
+b698c361-b6ae-42f6-bd4d-2d736f74f334,,2026-09-07T20:25:57.821Z,2,Stolen Property Offenses
+a5430716-bdad-43a7-9a28-e9f6a3780a7b,,2026-09-07T21:28:39.732Z,23,Larceny/Theft Offenses
+4110a0ed-ce68-470f-a6a5-1b29c04cb799,,2026-09-07T22:17:43.995Z,23,Larceny/Theft Offenses
+5409aabd-92f3-4aac-8ace-d54fc8ee4c6f,,2026-09-07T23:15:02.634Z,23,Larceny/Theft Offenses
+3f88b6ef-f7af-4828-b312-7fb6cb57e932,,2026-09-08T00:12:04.223Z,23,Larceny/Theft Offenses
+f6e1a24c-6b60-4774-a039-cccec4e99ed4,,2026-09-09T07:13:38.964Z,23,Motor Vehicle Theft/Stolen
+d282a1fa-ec02-43e0-bff4-9fe6b1e72deb,,2026-09-09T07:47:13.347Z,23,Motor Vehicle Theft/Stolen
+a00fd63d-19c9-42e8-8e26-6c2e272b4f07,,2026-09-09T08:13:51.852Z,23,Motor Vehicle Theft/Stolen
+f4e14795-8775-4f54-8003-9f5b74d50083,,2026-09-09T22:04:09.155Z,23,Child Abuse/Neglect
+bad9271f-337e-4e2e-919f-4fdcd2689de0,,2026-09-09T22:04:44.106Z,23,Welfare Check
