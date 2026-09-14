@@ -1,0 +1,287 @@
+Transparency Portal
+Community Impact
+Policy & Trust
+Visit Flock
+Taylor MI PD
+Transparency Portal
+
+Last updated: Sun Sep 13 2026
+
+Overview
+
+Taylor MI PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Taylor MI PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Taylor MI PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
+
+Community Impact
+Featured Success Stories
+
+Recent Success Story
+
+4 men arrested in undercover child predator operations in 2026
+https://www.wxyz.com/news/region/wayne-county/taylor-police-arrest-4-men-in-undercover-child-predator-sting-operation
+
+Recent Success Story
+
+14 men arrested in undercover child predator operations in 2025
+https://www.cbsnews.com/detroit/news/14-men-arrested-in-undercover-child-predator-operation-2025-taylor-police-say/
+
+Featured Success Story
+
+Location of a shooting suspect
+In a joint law-enforcement operation, the system was able to detect a suspect vehicle traveling into the city and, according to Lt. Frank Canning, allowed officers to locate the car within one minute of the time shots were fired. Chief John Blair noted the technology let the Department follow the vehicle from a neighboring community without deploying a large surveillance detail — a meaningful force multiplier given staffing levels.
+Source: The News Herald / Police1, 2024.
+
+
+Featured Success Story
+
+Taylor Police Department reported that the readers led to the identification and arrest of multiple armed-robbery and shooting suspects and fraud rings, along with approximately 60 stolen cars recovered — while emphasizing that the cameras read only license plates and do not capture the race, sex, or image of vehicle occupants.
+Source: CBS News Detroit, May 29, 2024
+
+
+Featured Success Story
+
+On July 6, 2026, officers located a U-Haul wanted in connection with an armed robbery in the Cleveland, Ohio, area and attempted a stop at a gas station on Eureka Road. The encounter escalated and resulted in an officer-involved shooting; the driver, an out-of-state suspect, survived and now faces multiple felony charges.
+Source: CBS News Detroit and ClickOnDetroit, July 2026.
+
+
+Featured Success Story
+
+In July 2025, 14-year-old was shot and killed following an altercation among a group of teenagers that moved through the area near the Meijer on Eureka Road before ending on a nearby residential street. This violent incident was able to be solved with the assistance of Flock cameras as an investigation tool.
+Source: WXYZ and CBS News Detroit, July 2025.
+
+In the Michigan News
+MANCELONA, MI
+6/1/2026
+
+SEXUAL ASSAULT
+
+Flock LPR Helps Michigan Deputies Arrest Sexual Assault Suspect in 12 Hours
+LPR
+Read full story
+CLINTON TOWNSHIP, MI
+5/28/2026
+
+STOLEN VEHICLE RECOVERY
+
+Flock LPR Helps Recover Stolen U-Haul in Clinton Township, MI
+LPR
+Read full story
+JACKSON, MI
+5/25/2026
+
+STOLEN VEHICLE RECOVERY
+
+Flock LPR Helps Deputies Recover Stolen Vehicles and Handgun in Jackson, MI
+LPR
+Read full story
+SILVER CREEK TOWNSHIP, MI
+5/21/2026
+
+HIT-AND-RUN
+
+Flock LPR Helps Identify Suspect in Fatal Michigan Hit-and-Run
+LPR
+Read full story
+ORION TOWNSHIP, MI
+5/19/2026
+
+CARJACKING
+
+Flock LPR Helps Track Carjacking Suspect to Arrest in Michigan
+LPR
+Read full story
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+30 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+77
+
+Unique Vehicles Detected
+
+Number of unique plate reads over the last 30 days.
+
+749,197
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+257
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCMEC Amber Alert, Wisconsin DOJ, MI LEIN
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+7,901
+Top Offense Types
+
+Offense Types used for LPR searches in the last 30 days.
+
+Motor Vehicle Theft/Stolen
+Wanted Person (Arrest Warrant/Fugitive)
+Larceny/Theft Offenses
+Obstructing the Police (Fleeing/Eluding)
+Stolen Property Offenses
+Policy & Trust
+
+What's Detected
+
+License plate numbers
+Vehicle make
+Vehicle model
+Vehicle color
+Vehicle body style (SUV, pickup, sedan, etc.)
+
+What's Not Detected
+
+Facial recognition – Flock does not identify people by their faces.
+Driver identification – It cannot tell who is driving a vehicle.
+Record phone calls or conversations – There are no microphones for audio surveillance.
+Read text messages or cell phone activity.
+Track a person's phone location.
+Recognize race, gender, or personal identity of vehicle occupants.
+Predict crimes or automatically determine criminal activity.
+Run every plate automatically through LEIN/NCIC
+See inside homes or buildings.
+
+Acceptable Use Policy
+
+Automated License Plate Reader (ALPR) technology shall be used solely for legitimate law enforcement and public safety purposes. Users shall only access ALPR data in connection with an authorized investigation, intelligence function, or public safety objective. Personal, political, or discriminatory use of the system is strictly prohibited. All system activity is subject to audit and review, and violations may result in disciplinary action, termination of access privileges, or criminal prosecution. Data is owned by Taylor MI PD and is never sold to 3rd parties.
+
+Prohibited Uses
+
+-Personal reasons or personal curiosity.
+-Looking up vehicles belonging to family members, friends, neighbors, coworkers, acquaintances, or romantic interests unless directly related to an authorized investigation.
+-Conducting searches on themselves or their own vehicles.
+-Monitoring elected officials, celebrities, public figures, or other individuals without a legitimate law enforcement purpose.
+-Supporting political, religious, or ideological activities.
+-Harassing, intimidating, stalking, or retaliating against any person.
+-Discriminating against any individual based on race, ethnicity, national origin, religion, sex, sexual orientation, gender identity, disability, or other protected status.
+-Investigating individuals solely because they are exercising constitutional rights, including freedom of speech, assembly, religion, or association.
+-Accessing ALPR information without an official law enforcement or public safety purpose.
+-Sharing ALPR data with unauthorized persons or organizations.
+-Using another employee's login credentials or allowing others to use their credentials.
+-Circumventing audit requirements, retention policies, or access controls.
+-Downloading, retaining, or disseminating ALPR data outside approved systems and procedures.
+-Conducting fishing expeditions or broad searches without a specific law enforcement objective.
+-Using ALPR information for commercial purposes or personal financial gain.
+-Searching for information on current or prospective employees unless authorized as part of an official background investigation.
+
+-Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
+
+Access Policy
+
+Authorized Users
+
+Access to the ALPR system shall be limited to personnel who:
+
+Have a legitimate law enforcement or public safety need.
+Have completed required training.
+Have been approved by the Chief of Police or designee.
+Possess unique user credentials.
+Access Requirements
+
+Users may access the system only when:
+
+Performing official duties.
+Supporting a criminal investigation, intelligence function, traffic safety initiative, missing person investigation, or other legitimate public safety purpose.
+Conducting activities authorized by department policy and applicable law.
+
+Each search should be associated with:
+
+A case report number;
+CAD/event number;
+Intelligence file number; or
+Other documented law enforcement purpose.
+User Responsibilities
+
+Users shall:
+
+Protect login credentials and not share passwords.
+Ensure searches are accurate, relevant, and related to official duties.
+Comply with all department policies regarding privacy, security, and data handling.
+Report suspected misuse, unauthorized access, or security incidents.
+
+Hotlist Policy
+
+Investigative Hot List Entries
+
+Vehicles may be entered into the ALPR hot list when they are reasonably believed to be associated with an active criminal investigation and when the entry serves a legitimate law enforcement purpose. Investigative entries must be supported by a documented case number, intelligence file, or other official investigative record.
+
+Examples include, but are not limited to:
+
+Narcotics trafficking investigations.
+Violent crime investigations.
+Robbery investigations.
+Homicide investigations.
+Human trafficking investigations.
+Organized criminal activity investigations.
+Fugitive apprehension efforts.
+
+
+Investigative hot list entries shall be reviewed periodically and removed when the investigative need no longer exists.
+
+Public Search Audit
+
+Download to view searches performed over the last 30 days.
+
+Download CSV
+SOC 2 Type II
+
+Independently audited controls covering security, availability, and confidentiality.
+
+ISO 27001
+
+Information security management aligned with international standards.
+
+Adherence to Key Privacy Principles
+
+Built to focus on data minimization, purpose limitation, and transparency.
+
+Myth vs. Fact
+Myth
+
+Flock has been hacked.
+
+Fact
+
+Flock's cloud environment has never been breached. Flock invests in a strong security posture, including adhering to NDAA, SOC2 (Type II), ISO 27001, ISO 27018 FedRAMP 20x, and Higher Education Community Vendor Assessment Tool (HECVAT) compliance. Additional security precautions include Role-Based Access Controls, data encrypted at-rest and in transit, required Multi-Factor Authentication, and regular penetration testing.
+
+Myth
+
+Flock sells and/or shares customer data.
+
+Fact
+
+Your community owns 100% of your data and it will never be sold. Only your agency decides who to share your data with, not Flock. Flock Safety does not publicly release agency search data. Flock does not operate or support any public-facing searchable database of law enforcement lookups, and we do not provide license plate search histories to websites or third parties without the agency's knowledge and authorization. Other agencies who you share footage with have been responding to FOIA requests and sharing this search data.
+
+Myth
+
+My data is fed into a national database.
+
+Fact
+
+Each agency controls access to its own data. Agencies may choose to share information through a broader network, but nothing is shared automatically. Participation is opt-in, governed by defined agreements, and limited to lawful investigative purposes.
+
+Myth
+
+Flock cameras use facial recognition.
+
+Fact
+
+Flock cameras do not use facial recognition technology. Searches are based on vehicle characteristics, and not identity. Flock cannot recognize, identify, or track individuals. It is purpose built for specific public safety investigations, not to monitor people.
+
+Provided by Flock Safety

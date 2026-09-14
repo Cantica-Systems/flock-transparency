@@ -1,5 +1,15 @@
 # Wayne County Flock snapshots
 
-Last updated: never
+Last updated: 2026-09-14 07:22 UTC
 
-No captures yet. A row appears here after the first successful portal dump.
+| Agency | Updated | Cameras | Vehicles (30d) | Searches | Hotlist hits | Outbound | Inbound | New audit rows |
+|---|---|---:|---:|---:|---:|---:|---:|---:|
+| [Taylor MI PD](data/taylor-city-pd/) |  | — | — | — | — | — | — | 0 |
+| [Livonia MI PD](data/livonia-city-pd/) |  | — | — | — | — | — | — | — |
+| [Highland Park MI PD](data/highland-park-pd/) |  | — | — | — | — | — | — | — |
+| [Sumpter Twp MI PD](data/sumpter-twp-pd/) |  | — | — | — | — | — | — | 0 |
+
+Search audits are append-only monthly CSVs (`data/<agency>/YYYY-MM.csv`), partitioned on search time.
+Share lists are the current portal snapshot; `git log -p` is the history.
+An em dash (—) means that agency did not publish that widget on the portal.
+
