@@ -32,7 +32,7 @@ Latest per-county summary: `kent/SNAPSHOT.md`, `ottawa/SNAPSHOT.md`, and so on.
   raw/<agency>/page.html
 ```
 
-Search-audit CSVs are partitioned by **search time**. Share lists are the current portal snapshot; `git log -p` is the history.
+Search-audit CSVs are partitioned by **search time**. Share lists are the current portal snapshot; `git log -p <county>/data/<agency>` is the history. Kent and Ottawa dumps were grafted from the old `*-co-mi-flock` repos (now archived).
 
 ## Columns (search audits)
 
