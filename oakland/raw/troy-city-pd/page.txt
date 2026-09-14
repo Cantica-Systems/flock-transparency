@@ -1,0 +1,393 @@
+Transparency Portal
+Community Impact
+Policy & Trust
+More Info
+Visit Flock
+Troy MI PD
+Transparency Portal
+
+Last updated: Sun Sep 13 2026
+
+Overview
+
+The Troy Police Department uses Flock Safety technology to capture objective evidence without compromising on individual privacy. The Troy Police Department utilizes retroactive search to solve crimes after they've occurred. Additionally, The Troy Police Department utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
+
+Community Impact
+In the Michigan News
+MANCELONA, MI
+6/1/2026
+
+SEXUAL ASSAULT
+
+Flock LPR Helps Michigan Deputies Arrest Sexual Assault Suspect in 12 Hours
+LPR
+Read full story
+CLINTON TOWNSHIP, MI
+5/28/2026
+
+STOLEN VEHICLE RECOVERY
+
+Flock LPR Helps Recover Stolen U-Haul in Clinton Township, MI
+LPR
+Read full story
+JACKSON, MI
+5/25/2026
+
+STOLEN VEHICLE RECOVERY
+
+Flock LPR Helps Deputies Recover Stolen Vehicles and Handgun in Jackson, MI
+LPR
+Read full story
+SILVER CREEK TOWNSHIP, MI
+5/21/2026
+
+HIT-AND-RUN
+
+Flock LPR Helps Identify Suspect in Fatal Michigan Hit-and-Run
+LPR
+Read full story
+ORION TOWNSHIP, MI
+5/19/2026
+
+CARJACKING
+
+Flock LPR Helps Track Carjacking Suspect to Arrest in Michigan
+LPR
+Read full story
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+30 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+27
+
+Unique Vehicles Detected
+
+Number of unique plate reads over the last 30 days.
+
+1,250,883
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+407
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCMEC Amber Alert, Wisconsin DOJ, MI LEIN
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+4,830
+
+Sharing Network Data With
+
+Organizations granted access to Troy MI PD data.
+
+Adrian MI PD
+Adrian Township MI PD
+Albion MI DPS
+Allegan County SO MI
+Almont MI PD
+Alpena County MI SO
+Antrim County SO MI
+Armada MI PD
+Auburn Hills MI PD
+Battle Creek MI PD
+Berrien County MI SO
+Beverly Hills MI PD
+Birmingham MI PD
+Blackman/Leoni Public Safety MI
+Bloomfield Twp MI PD
+Bridgeport Township MI PD
+Brighton MI PD
+Brownstown Twp PD MI
+Burton MI PD
+Calhoun County MI SO
+Canton Township MI PD
+Cass County MI SO
+Charter Township of Buena Vista MI PD
+Chesterfield Twp MI PD
+Chesterton IN PD
+Chikaming Twp MI PD
+Clawson MI PD
+Clayton Township PD MI
+Clinton County MI SO
+Clinton Township MI PD
+Clio MI PD
+Coldwater MI PD
+Covert Township PD MI
+Davison Township MI PD
+Dearborn Heights MI PD
+Dearborn MI PD
+Detroit MI PD
+Dickinson County MI SO
+East Lansing MI PD
+Eastpointe MI PD
+Ecorse MI PD
+Elk Rapids MI PD
+Farmington Hills MI PD
+Farmington MI DPS
+Fenton MI PD
+Flat Rock MI PD
+Flint MI PD
+Flint Township MI PD
+Flushing City MI PD
+Frankenmuth MI PD - New Business
+Franklin-Bingham Farms MI PD
+Fraser MI DPS
+Fruitport Township MI PD
+Garden City MI PD
+Gaylord MI PD
+Genesee Co. MI 911 Dispatch Authority
+Genesee County MI SO
+Gogebic County MI SO
+Grand Beach/Michiana MI PD
+Grand Blanc Twp MI PD
+Grand Haven MI DPS
+Grand Rapids MI PD
+Grand Traverse County MI SO
+Grand Valley State University MI
+Grandville PD MI
+Grosse Ile MI PD
+Gun Lake Tribal PD MI
+Hamtramck MI PD
+Hazel Park MI PD
+Highland Park MI PD
+Holland MI PD
+Huron Township MI PD
+Inkster MI PD
+Jackson County Central Dispatch MI
+Jackson County MI SO
+Jackson MI PD
+Kalamazoo County MI SO
+Kalamazoo MI PD
+Kalamazoo Township MI PD
+Kellogg Community College Campus MI PD
+Kent County MI SO
+Kentwood MI PD
+Lansing MI PD
+Lapeer City MI PD
+Lathrup Village MI PD
+Lenawee County MI SO
+Lincoln Park MI PD
+Lincoln Township PD MI
+Little Traverse Bay Band of Odawa Indians MI PD
+Livingston County MI SO
+Livonia MI PD
+Lowell MI PD
+Macomb County MI SO
+Madison Heights MI PD
+Madison Township MI PD
+Marquette County MI SO
+Marysville MI PD
+Melvindale MI PD
+Menominee County SO MI
+Metamora Township MI PD
+Metro Police Authority of Genesee County MI
+MI - Bloomfield Public Safety
+MI - Riverview PD
+MI - Saginaw County SO
+MI - Village of Middleville
+Michigan Department of Attorney General
+Michigan Department of Corrections (MDOC)
+Michigan Department of Natural Resources
+Michigan Senate MI PD
+Michigan State Police
+Milan MI PD
+Milford MI PD
+Missouri Information Analysis Center
+Monroe County MI SO
+Monroe MI PD
+Mount Morris Township PD MI
+Muskegon County MI SO
+Muskegon Heights MI PD
+Muskegon MI PD
+Muskegon Township MI PD (Muskegon County)
+Napoleon Twp MI PD
+New Baltimore MI PD
+Northville Twp MI PD
+Norton Shores MI PD
+Novi MI PD
+Oak Park MI Dept of Public Safety
+Oakland County MI SO
+Oceana County MI SO
+Ontonagon County MI SO
+Ottawa County MI SO
+Pentwater MI PD
+Plymouth MI PD
+Plymouth Township MI PD
+Pokagon Tribal MI PD
+Port Huron MI PD
+Portage MI PD
+Redford Twp MI PD
+Richland Village MI PD
+River Rouge MI PD
+Rockford Dept of Public Safety MI
+Romulus MI PD
+Roseville MI PD
+Royal Oak MI PD
+Saginaw MI PD
+Saginaw Township MI PD
+Saginaw Valley State University MI PD
+Saint Clair Shores MI PD
+Schoolcraft College MI PD
+Shelby Township MI PD
+South Lyon MI PD
+Southfield MI PD
+Spring Arbor MI PD
+Springport Twp MI PD
+St. Clair County MI SO
+St. Clair MI PD
+St. Joseph Department of Public Safety MI
+St. Joseph Township MI PD
+Sterling Heights MI PD
+Sturgis MI PD
+Sumpter Twp MI PD
+Taylor MI PD
+The Tribal Police of the Grand Traverse Band of Ottawa & Chippewa Indians MI
+Three Rivers MI PD
+TN ROCIC
+Traverse City MI PD
+Trenton PD MI
+Tuscola County MI SO
+University of Michigan Ann Arbor Campus MI PD
+Utica MI PD
+Van Buren MI PD
+Village of Dundee MI PD
+Walker MI PD
+Walled Lake MI PD
+Warren MI PD
+Waterford Township MI PD
+Wayland MI PD
+Wayne County Airport Authority MI
+Wayne MI PD
+West Bloomfield Twp MI PD
+Western Michigan University MI PD
+Westland MI PD
+White Lake Twp MI PD
+Whitehall MI PD
+Wixom MI PD
+Wolverine Lake MI PD
+Woodhaven MI PD
+Wyandotte MI PD
+Wyoming MI PD
+Zeeland MI PD
+Policy & Trust
+
+What is Detected
+
+License plates and vehicle characteristics.
+
+
+
+Acceptable Use Policy
+
+Employees approved to access the ALPR data under these guidelines are permitted to access the data for legitimate law enforcement purposes only, such as when the data relate to a specific criminal investigation or department-related civil or administrative action. Such ALPR data may be released to other authorized and verified law enforcement officials and agencies for legitimate law enforcement purposes. No member of this department shall operate ALPR equipment or access ALPR data without first completing department-approved training.
+
+
+Prohibited Uses
+
+Invasion of Privacy: Except when done pursuant to a court order such as a search warrant, it is a violation of this policy to utilize the ALPR to record license plates except those of vehicles that are visible to public view.
+
+Harassment or Intimidation: It is a violation of this policy to use the ALPR system to harass and/or intimidate any individual or group.
+
+Personal Use: It is a violation of this policy to use the ALPR system or associated files or hot lists for any personal use. All personnel are specifically prohibited from making a copy, such as but not limited to, using personal cellular phones, in any format of any video, audio or still photograph generated from the ALPR application or associated files or hotlists for personal use.
+
+First Amendment Rights: It is a violation of this policy to use the ALPR system or associated files or hot lists for the purpose or known effect of infringing upon First Amendment rights.
+
+Sharing Policy
+
+In-State Criteria
+• Allowed. However, if there are specific incidents of misuse, we can cancel any sharing relationship.
+
+Out-of-State Criteria
+• Articulable locations along the I-75 corridor. Specifically allowed due to the proliferation of Felony Lane Gang (FLG) incidents.
+• Chicago area allowed due to the amount of transient crime that occurs between Troy and Chicago.
+• Toledo/Cleveland area allowed due to the amount of transient crime that occurs between Troy and Toledo/Cleveland.
+• Specific drug interdiction units allowed to assist with DEA/NET investigations.
+• Articulable locations based on information related to the illegal transport of narcotics.
+• Articulable locations based on information related to auto theft investigations.
+• Articulable locations based on information related to human trafficking investigations.
+• Articulable locations based on information related to fraud investigations.
+
+Security and Data Retention Policy
+
+To facilitate oversight of the ALPR system, all users are required to have individual credentials for access and use of the system and/or data. All investigative inquiries are logged by user and available for auditing and review by the Troy Police Department.
+
+Data is owned by The Troy Police Department and is never sold to third parties.
+
+ALPR data shall be purged unless it has become, or it is reasonable to become, evidence in a criminal or civil action or is subject to a discovery request or other lawful action to produce records. In those circumstances, the applicable data shall be uploaded to Evidence.com and documented in the related incident report.
+
+The ALPR’s vendor will store the data and ensure proper maintenance and security of the data stored in their data towers. Recordings not relevant to an active investigation, a formal complaint against this agency, or an officer of this agency must be kept on the date it was created plus thirty days.
+
+Recordings that contain evidence of incidents are retained until the case is solved, closed and litigation ends. [MCL 780.316]
+
+
+Audit Policy
+
+It is the responsibility of the Chief of Police or their designee to conduct a quarterly audit of the ALPR detection browsing inquiries, including an audit sampling of the ALPR system utilization to verify proper use in accordance with the authorized uses of the system. The audit shall select a sampling of the inquiries and determine if each inquiry meets the requirements established by policy.
+SOC 2 Type II
+
+Independently audited controls covering security, availability, and confidentiality.
+
+ISO 27001
+
+Information security management aligned with international standards.
+
+Adherence to Key Privacy Principles
+
+Built to focus on data minimization, purpose limitation, and transparency.
+
+Myth vs. Fact
+Myth
+
+Flock has been hacked.
+
+Fact
+
+Flock's cloud environment has never been breached. Flock invests in a strong security posture, including adhering to NDAA, SOC2 (Type II), ISO 27001, ISO 27018 FedRAMP 20x, and Higher Education Community Vendor Assessment Tool (HECVAT) compliance. Additional security precautions include Role-Based Access Controls, data encrypted at-rest and in transit, required Multi-Factor Authentication, and regular penetration testing.
+
+Myth
+
+Flock sells and/or shares customer data.
+
+Fact
+
+Your community owns 100% of your data and it will never be sold. Only your agency decides who to share your data with, not Flock. Flock Safety does not publicly release agency search data. Flock does not operate or support any public-facing searchable database of law enforcement lookups, and we do not provide license plate search histories to websites or third parties without the agency's knowledge and authorization. Other agencies who you share footage with have been responding to FOIA requests and sharing this search data.
+
+Myth
+
+My data is fed into a national database.
+
+Fact
+
+Each agency controls access to its own data. Agencies may choose to share information through a broader network, but nothing is shared automatically. Participation is opt-in, governed by defined agreements, and limited to lawful investigative purposes.
+
+Myth
+
+Flock cameras use facial recognition.
+
+Fact
+
+Flock cameras do not use facial recognition technology. Searches are based on vehicle characteristics, and not identity. Flock cannot recognize, identify, or track individuals. It is purpose built for specific public safety investigations, not to monitor people.
+
+More Info
+
+Answering Common Questions About Flock
+
+https://www.flocksafety.com/trust/myths-facts
+
+Provided by Flock Safety

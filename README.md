@@ -7,12 +7,12 @@ One repo for [Flock Safety transparency portals](https://transparency.flocksafet
 | Kent | [`kent/`](kent/) | Grand Rapids PD, Kent County SO, Walker, Wyoming, Grandville, Lowell, Rockford DPS |
 | Ottawa | [`ottawa/`](ottawa/) | Holland PD |
 | Kalamazoo | [`kalamazoo/`](kalamazoo/) | Kalamazoo DPS, Portage PD |
-| Muskegon | [`muskegon/`](muskegon/) | Muskegon PD (portal live; no public search-audit CSV yet) |
+| Muskegon | [`muskegon/`](muskegon/) | none yet — Muskegon PD portal is live without a public search-audit CSV |
 | Allegan | [`allegan/`](allegan/) | none yet — known Flock users are probed daily |
-| Wayne | [`wayne/`](wayne/) | Taylor, Livonia, Highland Park, Sumpter Twp |
-| Oakland | [`oakland/`](oakland/) | Ferndale, Troy |
+| Wayne | [`wayne/`](wayne/) | Taylor PD, Sumpter Twp PD |
+| Oakland | [`oakland/`](oakland/) | none yet — Ferndale portal is inactive; Troy has no audit CSV |
 | Macomb | [`macomb/`](macomb/) | none yet — Roseville, Eastpointe, Shelby Twp, Fraser probed daily |
-| Washtenaw | [`washtenaw/`](washtenaw/) | Milan |
+| Washtenaw | [`washtenaw/`](washtenaw/) | none yet — Milan portal has no public search-audit CSV |
 | Genesee | [`genesee/`](genesee/) | none yet — Grand Blanc Twp, Fenton probed daily |
 | St. Clair | [`st-clair/`](st-clair/) | none yet — sheriff, Port Huron probed daily |
 | Lenawee | [`lenawee/`](lenawee/) | none yet — sheriff, Adrian, Tecumseh, Madison Twp probed daily |
