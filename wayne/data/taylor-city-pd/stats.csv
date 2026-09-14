@@ -1,3 +1,4 @@
 captured_at,last_updated,retention,lpr_cameras,unique_vehicles,searches,hotlists,hotlist_hits,sharing_outbound_count,sharing_inbound_count,audit_rows_on_portal,audit_rows_new
 2026-09-14T07:21:24Z,Sun Sep 13 2026,30 days,77,749197,257,"NCMEC Amber Alert, Wisconsin DOJ, MI LEIN",7901,,,257,257
+2026-09-14T08:00:28Z,Sun Sep 13 2026,30 days,77,749197,257,"NCMEC Amber Alert, Wisconsin DOJ, MI LEIN",7901,,,257,0
 backfill,,,,,,,,,,,0

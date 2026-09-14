@@ -1,12 +1,10 @@
 # Wayne County Flock snapshots
 
-Last updated: 2026-09-14 07:22 UTC
+Last updated: 2026-09-14 08:00 UTC
 
 | Agency | Updated | Cameras | Vehicles (30d) | Searches | Hotlist hits | Outbound | Inbound | New audit rows |
 |---|---|---:|---:|---:|---:|---:|---:|---:|
 | [Taylor MI PD](data/taylor-city-pd/) |  | — | — | — | — | — | — | 0 |
-| [Livonia MI PD](data/livonia-city-pd/) |  | — | — | — | — | — | — | — |
-| [Highland Park MI PD](data/highland-park-pd/) |  | — | — | — | — | — | — | — |
 | [Sumpter Twp MI PD](data/sumpter-twp-pd/) |  | — | — | — | — | — | — | 0 |
 
 Search audits are append-only monthly CSVs (`data/<agency>/YYYY-MM.csv`), partitioned on search time.
