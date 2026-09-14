@@ -23,4 +23,6 @@ raw/
   <agency>/page.html
 ```
 
-Watch list (probed daily, not yet public): Washtenaw County MI SO, Ann Arbor MI PD, Ypsilanti MI PD, Pittsfield Twp MI PD, Chelsea MI PD, Saline MI PD, Northfield Twp MI PD.
+Watched daily for a search-audit CSV: Milan MI PD.
+
+Guessed slugs (ad-hoc probe, not daily): Washtenaw County MI SO, Ann Arbor MI PD, Ypsilanti MI PD, Pittsfield Twp MI PD, Chelsea MI PD, Saline MI PD, Northfield Twp MI PD.

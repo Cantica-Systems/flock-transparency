@@ -8,14 +8,14 @@ One repo for [Flock Safety transparency portals](https://transparency.flocksafet
 | Ottawa | [`ottawa/`](ottawa/) | Holland PD |
 | Kalamazoo | [`kalamazoo/`](kalamazoo/) | Kalamazoo DPS, Portage PD |
 | Muskegon | [`muskegon/`](muskegon/) | none yet — Muskegon PD portal is live without a public search-audit CSV |
-| Allegan | [`allegan/`](allegan/) | none yet — known Flock users are probed daily |
+| Allegan | [`allegan/`](allegan/) | none yet — guessed slugs kept for ad-hoc probe |
 | Wayne | [`wayne/`](wayne/) | Taylor PD, Sumpter Twp PD |
 | Oakland | [`oakland/`](oakland/) | none yet — Ferndale portal is inactive; Troy has no audit CSV |
-| Macomb | [`macomb/`](macomb/) | none yet — Roseville, Eastpointe, Shelby Twp, Fraser probed daily |
+| Macomb | [`macomb/`](macomb/) | none yet — guessed slugs kept for ad-hoc probe |
 | Washtenaw | [`washtenaw/`](washtenaw/) | none yet — Milan portal has no public search-audit CSV |
-| Genesee | [`genesee/`](genesee/) | none yet — Grand Blanc Twp, Fenton probed daily |
-| St. Clair | [`st-clair/`](st-clair/) | none yet — sheriff, Port Huron probed daily |
-| Lenawee | [`lenawee/`](lenawee/) | none yet — sheriff, Adrian, Tecumseh, Madison Twp probed daily |
+| Genesee | [`genesee/`](genesee/) | none yet — guessed slugs kept for ad-hoc probe |
+| St. Clair | [`st-clair/`](st-clair/) | none yet — guessed slugs kept for ad-hoc probe |
+| Lenawee | [`lenawee/`](lenawee/) | none yet — guessed slugs kept for ad-hoc probe |
 
 Latest per-county summary: `kent/SNAPSHOT.md`, `ottawa/SNAPSHOT.md`, and so on.
 

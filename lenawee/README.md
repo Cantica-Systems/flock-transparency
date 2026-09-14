@@ -2,7 +2,7 @@
 
 This is an archive of [Flock Safety transparency portals](https://transparency.flocksafety.com/) for Lenawee County CLEMIS agencies. It collects the data those portals publish — search audits, share lists, and page snapshots — before that material falls off the public record. The portals keep about 30 days of search audits; after that window the same records are only available through FOIA.
 
-No public portal captured yet. Known CLEMIS member Flock users in this county are probed daily; a live URL with a search-audit CSV is captured and added here.
+No public portal captured yet. Guessed slugs for known CLEMIS member Flock users are kept for an ad-hoc probe; a live URL with a search-audit CSV is captured and added here.
 
 Other Michigan counties are sibling folders in this repo. See the [root README](../README.md).
 
@@ -23,4 +23,4 @@ raw/
   <agency>/page.html
 ```
 
-Watch list (probed daily, not yet public): Lenawee County MI SO, Adrian MI PD, Tecumseh MI PD, Madison Township MI PD.
+Guessed slugs (ad-hoc probe, not daily): Lenawee County MI SO, Adrian MI PD, Tecumseh MI PD, Madison Township MI PD.

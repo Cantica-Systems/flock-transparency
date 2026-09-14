@@ -30,7 +30,9 @@ Share lists are the current portal snapshot. `git log -p` shows when partners we
 
 Agencies pick which summary widgets to publish. A blank `stats.csv` cell (shown as — in [`SNAPSHOT.md`](SNAPSHOT.md)) means that figure was not on the page. The public search-audit CSV is the record this archive is built from; a portal with no audit file is not a completed snapshot.
 
-Watch list (probed daily, not yet public): Muskegon County SO, Muskegon Heights PD, Muskegon Township PD, Norton Shores PD, Fruitport Township PD, North Muskegon PD, Whitehall PD.
+Watched daily for a search-audit CSV: Muskegon PD.
+
+Guessed slugs (ad-hoc probe, not daily): Muskegon County SO, Muskegon Heights PD, Muskegon Township PD, Norton Shores PD, Fruitport Township PD, North Muskegon PD, Whitehall PD.
 
 ## Columns (search audits)
 

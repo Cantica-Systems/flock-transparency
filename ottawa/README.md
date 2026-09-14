@@ -30,6 +30,8 @@ Share lists are the current portal snapshot. `git log -p data/holland-city-pd/sh
 
 Agencies pick which summary widgets to publish. A blank `stats.csv` cell (shown as — in [`SNAPSHOT.md`](SNAPSHOT.md)) means that figure was not on the page. The public search-audit CSV is the record this archive is built from; a portal with no audit file is not a completed snapshot.
 
+Guessed slugs (ad-hoc probe, not daily): Ottawa County MI SO, Grand Haven MI DPS, Zeeland MI PD, Grand Valley State University MI.
+
 ## Columns (search audits)
 
 | Column | Meaning |

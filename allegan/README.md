@@ -2,7 +2,7 @@
 
 This is an archive of [Flock Safety transparency portals](https://transparency.flocksafety.com/) for Allegan County agencies. It collects the data those portals publish — search audits, share lists, and page snapshots — before that material falls off the public record. The portals keep about 30 days of search audits; after that window the same records are only available through FOIA.
 
-No public portal captured yet. Known Flock users in this county are probed daily; a live URL with a search-audit CSV is captured and added here.
+No public portal captured yet. Guessed slugs for known Flock users are kept for an ad-hoc probe; a live URL with a search-audit CSV is captured and added here.
 
 Kent County agencies are in [kent-co-mi-flock](../kent/). Ottawa County is in [ottawa-co-mi-flock](../ottawa/). Muskegon County is in [muskegon-co-mi-flock](../muskegon/). Allegan County is in [allegan-co-mi-flock](../allegan/). Kalamazoo County is in [kalamazoo-co-mi-flock](../kalamazoo/).
 
@@ -30,7 +30,7 @@ Share lists are the current portal snapshot. `git log -p` shows when partners we
 
 Agencies pick which summary widgets to publish. A blank `stats.csv` cell (shown as — in [`SNAPSHOT.md`](SNAPSHOT.md)) means that figure was not on the page. The public search-audit CSV is the record this archive is built from; a portal with no audit file is not a completed snapshot.
 
-Watch list (probed daily, not yet public): Allegan County SO, Wayland PD, Gun Lake Tribal PD.
+Guessed slugs (ad-hoc probe, not daily): Allegan County SO, Wayland PD, Gun Lake Tribal PD.
 
 ## Columns (search audits)
 
