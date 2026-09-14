@@ -10,6 +10,8 @@ One repo for [Flock Safety transparency portals](https://transparency.flocksafet
 | Muskegon | [`muskegon/`](muskegon/) | Muskegon PD (portal live; no public search-audit CSV yet) |
 | Allegan | [`allegan/`](allegan/) | none yet — known Flock users are probed daily |
 
+CLEMIS counties (Wayne, Oakland, Macomb, Washtenaw, Genesee, St. Clair, Lenawee) will use the same folder layout in this repo when those portals are wired.
+
 Latest per-county summary: `kent/SNAPSHOT.md`, `ottawa/SNAPSHOT.md`, and so on.
 
 ## Layout
