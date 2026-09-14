@@ -9,8 +9,13 @@ One repo for [Flock Safety transparency portals](https://transparency.flocksafet
 | Kalamazoo | [`kalamazoo/`](kalamazoo/) | Kalamazoo DPS, Portage PD |
 | Muskegon | [`muskegon/`](muskegon/) | Muskegon PD (portal live; no public search-audit CSV yet) |
 | Allegan | [`allegan/`](allegan/) | none yet — known Flock users are probed daily |
-
-CLEMIS counties (Wayne, Oakland, Macomb, Washtenaw, Genesee, St. Clair, Lenawee) will use the same folder layout in this repo when those portals are wired.
+| Wayne | [`wayne/`](wayne/) | Taylor, Livonia, Highland Park, Sumpter Twp |
+| Oakland | [`oakland/`](oakland/) | Ferndale, Troy |
+| Macomb | [`macomb/`](macomb/) | none yet — Roseville, Eastpointe, Shelby Twp, Fraser probed daily |
+| Washtenaw | [`washtenaw/`](washtenaw/) | Milan |
+| Genesee | [`genesee/`](genesee/) | none yet — Grand Blanc Twp, Fenton probed daily |
+| St. Clair | [`st-clair/`](st-clair/) | none yet — sheriff, Port Huron probed daily |
+| Lenawee | [`lenawee/`](lenawee/) | none yet — sheriff, Adrian, Tecumseh, Madison Twp probed daily |
 
 Latest per-county summary: `kent/SNAPSHOT.md`, `ottawa/SNAPSHOT.md`, and so on.
 
