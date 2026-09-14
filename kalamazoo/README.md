@@ -1,10 +1,11 @@
-# Ottawa County Flock archive
+# Kalamazoo County Flock archive
 
-This is an archive of [Flock Safety transparency portals](https://transparency.flocksafety.com/) for Ottawa County agencies. It collects the data those portals publish — search audits, share lists, and page snapshots — before that material falls off the public record. The portals keep about 30 days of search audits; after that window the same records are only available through FOIA.
+This is an archive of [Flock Safety transparency portals](https://transparency.flocksafety.com/) for Kalamazoo County agencies. It collects the data those portals publish — search audits, share lists, and page snapshots — before that material falls off the public record. The portals keep about 30 days of search audits; after that window the same records are only available through FOIA.
 
-- **Holland PD** — `https://transparency.flocksafety.com/holland-mi-pd`
+- **Kalamazoo DPS** — `https://transparency.flocksafety.com/kalamazoo-mi-pd`
+- **Portage PD** — `https://transparency.flocksafety.com/portage-mi-pd`
 
-Kent County agencies are in [kent-co-mi-flock](../kent/).
+Kent County agencies are in [kent-co-mi-flock](../kent/). Ottawa County is in [ottawa-co-mi-flock](../ottawa/). Muskegon County is in [muskegon-co-mi-flock](../muskegon/). Allegan County is in [allegan-co-mi-flock](../allegan/). Kalamazoo County is in [kalamazoo-co-mi-flock](../kalamazoo/).
 
 Latest summary: [`SNAPSHOT.md`](SNAPSHOT.md).
 
@@ -12,7 +13,7 @@ Latest summary: [`SNAPSHOT.md`](SNAPSHOT.md).
 
 ```
 data/
-  holland-city-pd/
+  kalamazoo-city-pd/
     YYYY-MM.csv              search audits, append-only, deduped on Flock id
     unknown.csv              no Flock id, or searchDate that didn't parse (rare)
     sharing_outbound.csv     agencies granted access to this agency’s data
@@ -26,11 +27,11 @@ raw/
 
 Search-audit CSVs are partitioned by **search time**. A search from 31 August lives in `2026-08.csv` even if it first appeared here in September. Ids already stored are left as-is.
 
-Share lists are the current portal snapshot. `git log -p data/holland-city-pd/sharing_outbound.csv` shows when partners were added or removed.
+Share lists are the current portal snapshot. `git log -p` shows when partners were added or removed.
 
 Agencies pick which summary widgets to publish. A blank `stats.csv` cell (shown as — in [`SNAPSHOT.md`](SNAPSHOT.md)) means that figure was not on the page. The public search-audit CSV is the record this archive is built from; a portal with no audit file is not a completed snapshot.
 
-Guessed slugs (ad-hoc probe, not daily): Ottawa County MI SO, Grand Haven MI DPS, Zeeland MI PD, Grand Valley State University MI.
+Guessed slugs (ad-hoc probe, not daily): Kalamazoo County SO, Kalamazoo Township PD, Richland Village PD, Vicksburg PD, Western Michigan University PD.
 
 ## Columns (search audits)
 
