@@ -5,7 +5,7 @@ Visit Flock
 Lowell MI PD
 Transparency Portal
 
-Last updated: Mon Sep 14 2026
+Last updated: Tue Sep 15 2026
 
 Overview
 
@@ -82,7 +82,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-112,942
+113,732
 
 Number of Searches
 
@@ -100,7 +100,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-246
+253
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -357,7 +357,6 @@ Cass County MI SO
 Charlotte MI PD
 Cheatham County TN SO
 Chesterfield Twp MI PD
-Chesterton IN PD
 Clark County OH SO
 Clawson MI PD
 Clearwater FL PD
