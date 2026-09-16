@@ -6,7 +6,7 @@ Visit Flock
 Portage MI PD
 Transparency Portal
 
-Last updated: Tue Sep 15 2026
+Last updated: Wed Sep 16 2026
 
 Overview
 
@@ -69,13 +69,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-418,913
+419,220
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-197
+193
 
 Hotlists Alerted On
 
@@ -87,7 +87,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-6,548
+6,839
 
 Sharing Network Data With
 
@@ -1480,7 +1480,6 @@ Metropolis IL PD
 Metropolitan Washington DC PD
 MI - Bloomfield Public Safety
 MI - Riverview PD
-MI - Saginaw County SO
 MI - Village of Middleville
 Miami County OH SO
 Miami County Park District OH Rangers
@@ -2076,6 +2075,7 @@ Rutherford County TN SO
 Rutledge TN PD
 Sachse TX PD
 Sagamore Hills Township OH PD
+Saginaw County MI SO
 Saginaw MI PD
 Saginaw Township MI PD
 Saginaw Valley State University MI PD
@@ -2235,7 +2235,6 @@ St Mary Parish LA SO
 St. Ann MO PD
 St. Charles City MO PD
 St. Charles County MO Ambulance District
-St. Charles County MO PD
 St. Charles IL PD
 St. Clair County MI SO
 St. Clair MI PD
@@ -2338,7 +2337,6 @@ Toledo OH PD
 Tomah WI PD
 Tompkinsville KY PD
 Tonawanda Town NY PD
-Tooele City PD UT
 Toronto OH PD
 Town & Country MO PD
 Town of Bean Station PD TN
@@ -2609,7 +2607,6 @@ Winthrop Harbor IL PD
 Wisconsin Dells WI PD
 Wisconsin Rapids WI PD
 Wisconsin State Capitol Police (WI)
-Wise County VA SO
 Wixom MI PD
 Wolverine Lake MI PD
 Wonder Lake IL PD
