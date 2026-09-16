@@ -5,7 +5,7 @@ Visit Flock
 Lowell MI PD
 Transparency Portal
 
-Last updated: Tue Sep 15 2026
+Last updated: Wed Sep 16 2026
 
 Overview
 
@@ -82,7 +82,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-113,732
+114,090
 
 Number of Searches
 
@@ -100,7 +100,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-253
+255
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -234,7 +234,6 @@ Metamora Township MI PD
 Metro Police Authority of Genesee County MI
 MI - Bloomfield Public Safety
 MI - Riverview PD
-MI - Saginaw County SO
 MI - Village of Middleville
 Michigan Department of Attorney General
 Michigan Department of Corrections (MDOC)
@@ -278,6 +277,7 @@ Rockford Dept of Public Safety MI
 Romulus MI PD
 Roseville MI PD
 Royal Oak MI PD
+Saginaw County MI SO
 Saginaw MI PD
 Saginaw Township MI PD
 Saginaw Valley State University MI PD
