@@ -6,7 +6,7 @@ Visit Flock
 Kent County MI SO
 Transparency Portal
 
-Last updated: Mon Sep 14 2026
+Last updated: Tue Sep 15 2026
 
 Overview
 
@@ -80,13 +80,13 @@ Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-1,033,295
+1,032,284
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-1,247
+1,252
 
 Hotlists Alerted On
 
@@ -98,7 +98,7 @@ Total Hotlist Alerts (Includes KCSO and Nationwide Partners)
 
 Total hotlist hits over the last 30 days.
 
-10,952
+11,021
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -106,8 +106,8 @@ Offense Types used for LPR searches in the last 30 days.
 Larceny/Theft Offenses
 Drugs/Narcotics
 Motor Vehicle Theft/Stolen
-Wanted Person (Arrest Warrant/Fugitive)
 Stolen Property Offenses
+Wanted Person (Arrest Warrant/Fugitive)
 
 Sharing Network Data With
 
@@ -597,6 +597,7 @@ Barberton OH PD
 Bartholomew County IN SO
 Battle Creek MI PD
 Baytown TX PD
+Beech Grove IN PD
 Belpre OH PD
 Belvidere IL PD
 Berea OH PD
@@ -646,7 +647,6 @@ Chenoa IL PD
 Cherokee County GA SO
 Chester Township OH PD
 Chesterfield Twp MI PD
-Chesterton IN PD
 Cheviot OH PD
 Cicero IN PD
 Clark County OH SO
@@ -703,7 +703,6 @@ Englewood OH PD
 Erie County OH SO
 Evansville IN PD
 Fairfax OH PD
-Fairfield PD - OH
 Fairfield Township OH PD
 Fairlawn OH PD
 Fairmount IN PD
