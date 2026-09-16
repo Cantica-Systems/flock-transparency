@@ -5,7 +5,7 @@ Visit Flock
 Rockford Dept of Public Safety MI
 Transparency Portal
 
-Last updated: Tue Sep 15 2026
+Last updated: Wed Sep 16 2026
 
 Overview
 
@@ -71,7 +71,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-65,217
+64,081
 
 Number of Searches
 
@@ -221,7 +221,6 @@ Metamora Township MI PD
 Metro Police Authority of Genesee County MI
 MI - Bloomfield Public Safety
 MI - Riverview PD
-MI - Saginaw County SO
 MI - Village of Middleville
 Michigan Department of Attorney General
 Michigan Department of Corrections (MDOC)
@@ -264,6 +263,7 @@ River Rouge MI PD
 Romulus MI PD
 Roseville MI PD
 Royal Oak MI PD
+Saginaw County MI SO
 Saginaw MI PD
 Saginaw Township MI PD
 Saginaw Valley State University MI PD
@@ -493,7 +493,6 @@ Matteson IL PD
 Mattoon IL PD
 Maumee OH PD
 Melvindale MI PD
-Menasha WI PD
 Menomonee Falls WI PD
 Mercer County OH SO
 Metro Police Authority of Genesee County MI
