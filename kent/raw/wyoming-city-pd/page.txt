@@ -6,7 +6,7 @@ Visit Flock
 Wyoming MI PD
 Transparency Portal
 
-Last updated: Tue Sep 15 2026
+Last updated: Wed Sep 16 2026
 
 Overview
 
@@ -94,13 +94,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-671,469
+668,805
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-266
+285
 
 Hotlists Alerted On
 
@@ -112,7 +112,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-14,938
+14,982
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -1065,7 +1065,6 @@ Metropolis IL PD
 Metropolitan Washington DC PD
 MI - Bloomfield Public Safety
 MI - Riverview PD
-MI - Saginaw County SO
 MI - Village of Middleville
 Miami County OH SO
 Miami-Dade FL SO
@@ -1446,6 +1445,7 @@ Russell County AL SO
 Russellville KY PD
 Rutherford County TN SO
 Sachse TX PD
+Saginaw County MI SO
 Saginaw MI PD
 Saginaw Township MI PD
 Saginaw Valley State University MI PD
@@ -1549,7 +1549,6 @@ Springport Twp MI PD
 St Mary Parish LA SO
 St. Ann MO PD
 St. Charles City MO PD
-St. Charles County MO PD
 St. Charles IL PD
 St. Clair County MI SO
 St. Clair MI PD
@@ -1616,7 +1615,6 @@ Toledo OH PD
 Tomah WI PD
 Tompkinsville KY PD
 Tonawanda Town NY PD
-Tooele City PD UT
 Toronto OH PD
 Town of Bean Station PD TN
 Town of Groton CT PD
@@ -1804,7 +1802,6 @@ Winona MN PD
 Wintersville OH PD
 Winterville NC PD
 Wisconsin State Capitol Police (WI)
-Wise County VA SO
 Wixom MI PD
 Wolverine Lake MI PD
 Wonder Lake IL PD
@@ -2143,7 +2140,6 @@ Livingston County IL SO
 Livingston County MI SO
 Livonia MI PD
 Lockland OH PD
-Lodi WI PD
 Logansport IN PD
 Lorain County OH SO
 Loudon TN PD
@@ -2180,13 +2176,11 @@ Maumee OH PD
 Mauston WI PD
 Medina County OH SO
 Melvindale MI PD
-Menasha WI PD
 Menominee County SO MI
 Menomonee Falls WI PD
 Mercer County OH SO
 Metro Police Authority of Genesee County MI
 MI - Riverview PD
-MI - Saginaw County SO
 MI - Village of Middleville
 Miami County OH SO
 Michigan City IN PD
@@ -2331,6 +2325,7 @@ Ross Township PA PD
 Rossford OH PD
 Round Lake Beach IL PD
 Royal Oak MI PD
+Saginaw County MI SO
 Saginaw MI PD
 Saint Clair Shores MI PD
 Sangamon County IL SO
@@ -2406,7 +2401,6 @@ Toledo OH PD
 Tomah WI PD
 Town & Country MO PD
 Traverse City MI PD
-Trenton OH PD
 Trenton PD MI
 Trotwood OH PD
 Trousdale County TN SO
