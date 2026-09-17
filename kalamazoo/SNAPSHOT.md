@@ -1,6 +1,6 @@
 # Kalamazoo County Flock snapshots
 
-Last updated: 2026-09-16 18:15 UTC
+Last updated: 2026-09-17 15:20 UTC
 
 | Agency | Updated | Cameras | Vehicles (30d) | Searches | Hotlist hits | Outbound | Inbound | New audit rows |
 |---|---|---:|---:|---:|---:|---:|---:|---:|
