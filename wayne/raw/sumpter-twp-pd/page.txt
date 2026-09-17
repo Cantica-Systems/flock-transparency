@@ -5,7 +5,7 @@ Visit Flock
 Sumpter Twp MI PD
 Transparency Portal
 
-Last updated: Tue Sep 15 2026
+Last updated: Wed Sep 16 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-11,217
+11,154
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-18
+17
 
 Hotlists Alerted On
 
@@ -158,7 +158,6 @@ Metamora Township MI PD
 Metro Police Authority of Genesee County MI
 MI - Bloomfield Public Safety
 MI - Riverview PD
-MI - Saginaw County SO
 MI - Village of Middleville
 Michigan Department of Attorney General
 Michigan Department of Corrections (MDOC)
@@ -199,6 +198,7 @@ Rockford MI DPS
 Romulus MI PD
 Roseville MI PD
 Royal Oak MI PD
+Saginaw County MI SO
 Saginaw MI PD
 Saginaw Township MI PD
 Saginaw Valley State University MI PD
