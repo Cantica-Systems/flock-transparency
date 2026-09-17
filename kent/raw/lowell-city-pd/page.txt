@@ -15,7 +15,6 @@ The Lowell Police Department's purpose in using Flock cameras is public safety a
 
 Ultimately, Flock Safety is one component of the Lowell Police Department's overall approach to providing effective and responsible police services. It does not replace officers, community relationships, sound investigative practices, or independent decision-making. Instead, it provides officers with an additional tool that can help them respond more quickly to serious incidents, identify vehicles connected to criminal activity, develop investigative leads, recover stolen property, locate individuals who may be in danger, and work more effectively with surrounding law enforcement agencies. When used within appropriate policy and legal safeguards, the technology can improve investigative efficiency and enhance public safety while maintaining responsible oversight of how law enforcement technology is used in the Lowell community.
 
-
 Community Impact
 In the Michigan News
 MANCELONA, MI
@@ -82,7 +81,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-114,690
+113,886
 
 Number of Searches
 
@@ -100,7 +99,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-258
+272
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
