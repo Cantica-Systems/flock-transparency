@@ -1,6 +1,6 @@
 # Wayne County Flock snapshots
 
-Last updated: 2026-09-17 13:30 UTC
+Last updated: 2026-09-17 20:09 UTC
 
 | Agency | Updated | Cameras | Vehicles (30d) | Searches | Hotlist hits | Outbound | Inbound | New audit rows |
 |---|---|---:|---:|---:|---:|---:|---:|---:|
