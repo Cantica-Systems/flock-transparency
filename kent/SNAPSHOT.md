@@ -1,6 +1,6 @@
 # Kent County Flock snapshots
 
-Last updated: 2026-09-17 17:10 UTC
+Last updated: 2026-09-17 17:45 UTC
 
 | Agency | Updated | Cameras | Vehicles (30d) | Searches | Hotlist hits | Outbound | Inbound | New audit rows |
 |---|---|---:|---:|---:|---:|---:|---:|---:|
@@ -10,7 +10,7 @@ Last updated: 2026-09-17 17:10 UTC
 | [Wyoming MI PD](data/wyoming-city-pd/) | Wed Sep 16 2026 | 44 | 668,805 | 285 | 14,982 | 1,696 | 649 | 19 |
 | [Grandville PD MI](data/grandville-city-pd/) | Thu Sep 17 2026 | 9 | 338,124 | 54 | 1,102 | 1,598 | 232 | 2 |
 | [Lowell MI PD](data/lowell-city-pd/) | Thu Sep 17 2026 | 5 | 114,690 | 20 | 258 | 210 | 206 | 0 |
-| [Rockford Dept of Public Safety MI](data/rockford-dps/) | Wed Sep 16 2026 | 3 | 64,081 | 4 | 66 | 211 | 319 | 0 |
+| [Rockford Dept of Public Safety MI](data/rockford-dps/) | Thu Sep 17 2026 | 3 | 62,981 | 4 | 71 | 211 | 319 | 0 |
 
 Search audits are append-only monthly CSVs (`data/<agency>/YYYY-MM.csv`), partitioned on search time.
 Share lists are the current portal snapshot; `git log -p` is the history.
