@@ -1,10 +1,10 @@
 # Ottawa County Flock snapshots
 
-Last updated: 2026-09-17 21:11 UTC
+Last updated: 2026-09-17 22:13 UTC
 
 | Agency | Updated | Cameras | Vehicles (30d) | Searches | Hotlist hits | Outbound | Inbound | New audit rows |
 |---|---|---:|---:|---:|---:|---:|---:|---:|
-| [Holland MI PD](data/holland-city-pd/) | Thu Sep 17 2026 | 22 | — | 235 | — | — | — | 6 |
+| [Holland MI PD](data/holland-city-pd/) | Thu Sep 17 2026 | 22 | — | 235 | — | — | — | 0 |
 
 Search audits are append-only monthly CSVs (`data/<agency>/YYYY-MM.csv`), partitioned on search time.
 Share lists are the current portal snapshot; `git log -p` is the history.
