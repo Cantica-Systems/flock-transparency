@@ -1,0 +1,39 @@
+id,userId,searchDate,networkCount,offenseType
+8643d966-231e-4da5-a170-812cf7db8d2b,***,2026-08-17T03:05:40.003Z,3,Motor Vehicle Theft/Stolen
+35d08e57-a25a-4cdf-8914-1234484fa36f,***,2026-08-17T03:15:27.977Z,202,Welfare Check
+d2da99a8-fa54-40eb-b4e6-35fb7d7d7390,***,2026-08-17T05:20:55.834Z,2,Motor Vehicle Theft/Stolen
+cdd9f8a6-4f67-452e-822e-818b7dcb6218,***,2026-08-17T05:29:57.927Z,2,Motor Vehicle Theft/Stolen
+fe2b3229-7739-4162-9829-7f4dbfbfd024,***,2026-08-17T08:09:42.101Z,2,Motor Vehicle Theft/Stolen
+33871815-be4a-4edd-97cc-739adb11e6cc,***,2026-08-18T13:26:54.669Z,207,Assault/Battery Offenses (Domestic)
+6598d486-ddd9-4975-8d4e-dc5ea3aeabb0,***,2026-08-18T16:23:54.847Z,2,Assault/Battery Offenses (Domestic)
+9d2fee7d-6d25-4a35-9d0e-2d397067e5e2,***,2026-08-18T19:47:00.643Z,2,Obstructing Justice
+c7328fc9-580c-4d0d-a69f-ad91ed590071,***,2026-08-19T14:34:40.738Z,207,Homicide/Death Investigation
+14a3f514-2430-4e6a-9f2a-50f8293a36fe,***,2026-08-19T20:58:35.764Z,207,Motor Vehicle Theft/Stolen
+0c57363a-416d-4856-9f51-e222c474c93f,***,2026-08-19T21:01:42.147Z,207,Motor Vehicle Theft/Stolen
+1a351735-d384-49ff-afc1-14853a123d73,***,2026-08-19T22:19:57.203Z,235,Motor Vehicle Theft/Stolen
+16acd39d-3e8d-4271-a9bb-374747d7f160,***,2026-08-22T17:47:36.036Z,207,Hit and Run/Car Accident
+829130fd-bdf5-46f1-8bc1-9e2804c7ac89,***,2026-08-22T19:16:27.056Z,1,Hit and Run/Car Accident
+8b9b6eff-e1ad-41b4-a4d3-66a8b4213f85,***,2026-08-24T00:31:01.648Z,234,Motor Vehicle Theft/Stolen
+db2cf686-d72e-4593-b7fe-72eaa90a2708,***,2026-08-24T01:54:50.783Z,234,Motor Vehicle Theft/Stolen
+865bbebe-79aa-4dd9-b7eb-8be4ebda1fde,***,2026-08-25T14:10:06.768Z,5913,Missing/Endangered Person/Runaway
+dd311a26-33d8-4e80-ba57-ad11b93ca8b8,***,2026-08-25T16:21:16.232Z,206,Missing/Endangered Person/Runaway
+ccd5c4b9-ce2e-4f36-9a80-d9ff7a21c9c4,***,2026-08-25T20:32:38.378Z,206,Larceny/Theft Offenses
+d991e1a5-d85a-4614-87cf-dcaf74c9a63d,***,2026-08-26T00:25:24.621Z,2,Obstructing the Police (Fleeing/Eluding)
+e47f6e2a-2ddc-459b-94e3-6349dba4af59,***,2026-08-26T04:55:46.793Z,200,Destruction/Damage/Vandalism of Property
+8e614a34-8063-4182-865d-44ac8be11349,***,2026-08-26T12:30:44.768Z,2,Hit and Run/Car Accident
+ea9cd05e-0d31-464b-a13f-1c3acca89240,***,2026-08-26T13:27:27.157Z,2,Destruction/Damage/Vandalism of Property
+116a00ff-fbc0-48b9-9dc8-9d1bf70b8a5c,***,2026-08-26T13:35:13.795Z,233,Arson
+15a81249-62fb-4e42-a758-c3c16cbe77fe,***,2026-08-26T17:48:37.457Z,206,Missing/Endangered Person/Runaway
+34f7bb6c-0a1b-4c07-96f0-acf1f781130f,***,2026-08-28T13:19:40.443Z,205,Hit and Run/Car Accident
+bb726e15-42b9-46d9-aa3f-3bb66990696f,***,2026-08-28T13:28:15.037Z,205,Wanted Person (Arrest Warrant/Fugitive)
+de1d8f79-af16-4d33-a5b1-a2173229470c,***,2026-08-29T06:30:57.856Z,205,Hit and Run/Car Accident
+55e1bdc9-938f-4760-9ee8-d5e204d0548a,***,2026-08-29T08:12:05.256Z,1,Hit and Run/Car Accident
+aea0b1d1-aa8f-4b12-84b4-d44e4dee730a,***,2026-08-29T12:31:12.453Z,205,Motor Vehicle Theft/Stolen
+7af39abc-10cf-4c3d-ab63-2c76dcc2ad4c,***,2026-08-30T01:33:37.527Z,205,Motor Vehicle Theft/Stolen
+5515b352-78c2-4b3e-b388-480d3829ea9f,***,2026-08-30T09:20:33.376Z,205,Motor Vehicle Theft/Stolen
+0eb10c13-4e18-40de-a1ba-8f9cc132e0e1,***,2026-08-30T16:03:40.909Z,205,Obstructing Justice
+a347631a-3f8d-4718-9c51-648d84ad51d2,***,2026-08-30T23:01:19.878Z,205,Drugs/Narcotics
+210f7970-c9f7-4af4-921d-3ecc126e5e4a,***,2026-08-31T00:14:15.343Z,232,Drugs/Narcotics
+74dec76e-a97d-43b1-a3a3-c1564eafd702,***,2026-08-31T01:09:35.139Z,232,Drugs/Narcotics
+e2887dca-716e-4004-9668-8b7bc929e82b,***,2026-08-31T07:39:37.033Z,232,Motor Vehicle Theft/Stolen
+6d668506-1c0d-407a-98d6-9f5f84f4a4fb,***,2026-08-31T13:07:01.824Z,205,Motor Vehicle Theft/Stolen
