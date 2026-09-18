@@ -5,7 +5,7 @@ Visit Flock
 Livonia MI PD
 Transparency Portal
 
-Last updated: Wed Sep 16 2026
+Last updated: Fri Sep 18 2026
 
 Overview
 
@@ -24,25 +24,25 @@ Total Cameras
 
 Number of LPR and other cameras.
 
-24
+25
 
 Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-686,185
+671,881
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-451
+438
 
 Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-2,717
+2,877
 Policy & Trust
 
 What's Detected
