@@ -6,7 +6,7 @@ Visit Flock
 Kent County MI SO
 Transparency Portal
 
-Last updated: Thu Sep 17 2026
+Last updated: Fri Sep 18 2026
 
 Overview
 
@@ -80,13 +80,13 @@ Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-1,029,601
+1,035,730
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-1,322
+1,327
 
 Hotlists Alerted On
 
@@ -98,7 +98,7 @@ Total Hotlist Alerts (Includes KCSO and Nationwide Partners)
 
 Total hotlist hits over the last 30 days.
 
-11,062
+11,575
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -826,6 +826,7 @@ Jasper IN PD
 Jefferson County KY SO
 Jefferson County MO SO
 Jefferson County OH SO
+Jefferson Parish LA SO
 Joliet IL PD
 Kalamazoo County MI SO
 Kalamazoo Township MI PD
